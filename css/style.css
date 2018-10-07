@@ -1,0 +1,164 @@
+
+#container
+       
+        {
+            position:relative;
+			margin:0 auto;
+            width:970px;
+            padding:10px;
+			
+
+        }
+		
+#header
+        {
+            position:relative;
+			height:100px;
+			
+    
+        }
+		
+h1
+        {
+            
+			position:absolute;
+			left:87px;
+            font-family: 'Work Sans', sans-serif;
+			font-size:40px;
+			width:260px;
+			height:90px;
+            color: black;
+			text-align:center;
+		
+			margin: 5px 0 5px 0
+        }
+
+img.falls{
+			
+			position:absolute;
+			left:434px;
+
+	
+}
+		
+#navi 
+        {
+			height:12px;
+			width:150px;
+            position:absolute;
+            left:677.6px;
+            font-family: 'Work Sans', sans-serif;
+			font-size:11px;
+			text-align:center;
+			margin:44px 0 44px 0;
+			
+
+        }
+
+
+body 
+        {
+			
+            font-family: 'Cormorant Garamond', serif;
+            font-size:17.5px;
+            background-color:#E6E7E2 /* PANTONE 11-4301 TPX Lily White */
+
+
+
+        }
+
+#content
+        {
+           position:relative;
+		   margin-top:20px;
+		   min-height:1000px;
+        }
+		
+
+
+img.firs{
+			
+			width:400px;
+}
+
+#firs{
+			float:left;
+			width:400px;
+			height:500px;
+			margin-bottom:10px;
+			text-align:center;
+			margin:60px 0
+}
+
+#text{
+			float:right;
+			width:400px;
+			min-height:800px;
+			margin-bottom:10px;
+	
+	
+}
+li{
+	
+			margin:10px;
+}
+
+#chsepic{
+			float:left;
+			width:400px;
+			height:500px;
+			margin-bottom:10px;
+	
+}
+#schools{
+			float:right;
+			width:400px;
+			min-height:800px;
+			margin-bottom:10px;
+}
+
+#e30pic{
+			float:left;
+			width:400px;
+			height:500px;
+			margin-bottom:10px;
+}
+
+#hobbielist{
+			float:right;
+			width:400px;
+			min-height:800px;
+			margin-bottom:10px;
+	
+}
+
+
+a:link 
+        {
+            color:deepskyblue;
+            text-decoration:none;       
+        }
+			
+a:visited 
+        {
+				
+            color:deepskyblue;
+        }
+			
+a:hover 
+        {
+            color:black;
+				
+        }
+			
+a:active 
+        {
+            color:white;
+        }
+		
+#footer{
+	
+	position:relative;
+	text-align:center;
+	font-size:12px;
+}
