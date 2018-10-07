@@ -1,3 +1,4 @@
 cd desktop/protobronze
-git add protobronze/style/style.css
-git push
+git add .
+git commit -m "committed"
+git push origin master
