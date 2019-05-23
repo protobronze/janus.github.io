@@ -99,10 +99,8 @@ body
     }
 
 #pdf{
-			  position:relative;
-		   margin-top:20px;
-		   min-height:1000px;
-
+        border:10px;
+        border-color:blue;
 }
 
 li{
