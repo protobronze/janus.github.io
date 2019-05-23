@@ -93,8 +93,18 @@ body
 			min-height:800px;
 			margin-bottom:10px;
 	
-	
+
+        
+        
+    }
+
+#pdf{
+			  position:relative;
+		   margin-top:20px;
+		   min-height:1000px;
+
 }
+
 li{
 	
 			margin:10px;
