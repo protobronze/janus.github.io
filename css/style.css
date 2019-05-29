@@ -31,7 +31,7 @@ h1
 			width:150px;
             color: black;
 			text-align:center;
-            border:1px;
+         
 		    margin:44px 0 44px 0;
             
         }
@@ -45,9 +45,9 @@ h2
 			width:500px;
             color: black;
 			text-align:center;
-            border:1px;
+         
 		    margin:44px 0 44px 0;
-            border-color:blue;
+           
         }
 
 #bod h2
@@ -60,9 +60,9 @@ h2
 			width:500px;
             color: black;
 			text-align:center;
-            border:1px;
+           
 		    margin:44px 0 44px 0;
-            border-color:blue;
+           
         }
 
 #bod h3
@@ -75,9 +75,9 @@ h2
 			width:500px;
             color: black;
 			text-align:center;
-            border:1px;
+           
 		    margin:44px 0 44px 0;
-            border-color:blue;
+            
         }
 
 
@@ -162,7 +162,7 @@ body
            position:inherit;
 		   margin-top:200px;
 		   min-height:1000px;
-            border:10px solid blue;
+            
         }
 		
 
@@ -177,7 +177,7 @@ body
 			width:400px;
 			min-height:30px;
 			margin-bottom:10px;
-            border:10px solid blue;
+           
 	        
         
         
@@ -199,34 +199,6 @@ li{
 			margin:10px;
 }
 
-#chsepic{
-			float:left;
-			width:400px;
-			height:500px;
-			margin-bottom:10px;
-	
-}
-#schools{
-			float:right;
-			width:400px;
-			min-height:800px;
-			margin-bottom:10px;
-}
-
-#e30pic{
-			float:left;
-			width:400px;
-			height:500px;
-			margin-bottom:10px;
-}
-
-#hobbielist{
-			float:right;
-			width:400px;
-			min-height:800px;
-			margin-bottom:10px;
-	
-}
 
 
 a:link 
