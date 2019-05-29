@@ -38,7 +38,7 @@ h1
 h2
         {
             
-			position:relative;
+			position:absolute;
             font-family: 'Work Sans', sans-serif;
 			font-size:12px;
 			height:12px;
@@ -64,6 +64,22 @@ h2
 		    margin:44px 0 44px 0;
             border-color:blue;
         }
+
+#bod h3
+        {
+            
+			position:relative;
+            font-family: 'Work Sans', sans-serif;
+			font-size:12px;
+			height:28px;
+			width:500px;
+            color: black;
+			text-align:center;
+            border:1px;
+		    margin:44px 0 44px 0;
+            border-color:blue;
+        }
+
 
 img.olympic{
 			
@@ -144,8 +160,9 @@ body
 #bod #content
         {
            position:inherit;
-		   margin-top:20px;
+		   margin-top:200px;
 		   min-height:1000px;
+            border:10px solid blue;
         }
 		
 
@@ -155,11 +172,12 @@ body
 
 #bod #text{
 			
-            position:absolute
+            
             float:right;
 			width:400px;
 			min-height:30px;
 			margin-bottom:10px;
+            border:10px solid blue;
 	        
         
         
