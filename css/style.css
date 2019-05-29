@@ -74,7 +74,37 @@ img.olympic{
 
 	
 }
-		
+
+img.t1{
+        opacity:.9;
+    filter: alpha(opacity=50);
+}
+	
+img.t2a{
+        opacity:.9;
+    
+}
+	
+img.t2b{
+        opacity:.9;
+    
+}
+	
+img.t3{
+        opacity:.9;
+    
+}
+	
+img.squat{
+        opacity:.9;
+    
+}
+
+img{
+    
+     opacity:.9;
+}
+	
 #navi 
         {
 			height:12px;
