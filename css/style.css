@@ -89,15 +89,6 @@ h2
 }
 
 
-img.olympic{
-			
-			position:absolute;
-			left:400px;
-            top:85px;
-           
-
-	
-}
 
 img.jsplash{
         display: block;
@@ -109,30 +100,6 @@ img.jsplash{
 
 
 
-img.t1{
-        opacity:.9;
-    filter: alpha(opacity=50);
-}
-	
-img.t2a{
-        opacity:.9;
-    
-}
-	
-img.t2b{
-        opacity:.9;
-    
-}
-	
-img.t3{
-        opacity:.9;
-    
-}
-	
-img.squat{
-        opacity:.9;
-    
-}
 
 img{
     
@@ -169,14 +136,14 @@ body
 
 #content
         {
-           position:relative;
+           positionrelative;
 		   margin-top:20px;
 		   min-height:1000px;
         }
 
 #bod #content
         {
-           position:inherit;
+           positioninherit;
 		   margin-top:200px;
 		   min-height:1000px;
             
